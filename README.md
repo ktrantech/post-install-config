@@ -88,20 +88,34 @@ https://github.com/user-attachments/assets/02112102-e539-48cd-9308-47111b9fe1fd
 - Navigate to "Add New" button
 - Create Karen User 
 
+   <h2>Step 5. Configure SLA (Service Level Agreement)</h2>
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+https://github.com/user-attachments/assets/9632d521-19d4-4260-abb9-ebf886a7fc0f
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+- Watch the Instructional Video above
+- Go to Admins Panel
+- Click Manage
+- Navigate to "Add New" button
+- Create Karen User
+
+
+<h2>Step 6. Configure Help Topics (For when users create a ticket)</h2>
+
+
+- Watch the Instructional Video above
+- Go to Admins Panel
+- Click Manage
+- Navigate to "Help Topics"
+- Create a Business Critical Outage Topic
+- Create Personal Computer Issues Topic
+- Equipment Request Topic
+- Password Reset Topic
+- Other Topic 
+  
+
+   
+
+

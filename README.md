@@ -46,13 +46,47 @@ https://github.com/user-attachments/assets/82f14bb1-cecf-4759-ac76-41caeed2fbee
 
 https://github.com/user-attachments/assets/c68ad3ee-4436-4f97-ac8b-bdbb5c780717
 
+ - Watch the Instructional Video above
  - Go to your Admin Panel
  - Click Agents
  - Navigate to Departments
- - Create Department name "SysAdmins"
- - Watch Instructiononal Video
+ - Create the Department name "SysAdmins"
+
+   <h2>Step 3. Configure Teams</h2>
+
+https://github.com/user-attachments/assets/02ee5893-04ff-43d7-9e37-97020da02f75
+
+- Watch the Instructional Video above
+- Go to Admins Panel
+- Click Agents
+- Navigate to Teams (You can pull agents from different Departments)
+- Create an "Online Banking" Team
+
    
-   
+   <h2>Step 4. Configure Agents (workers)</h2>
+
+
+https://github.com/user-attachments/assets/02112102-e539-48cd-9308-47111b9fe1fd
+
+- Watch the Instructional Video above
+- Go to Admins Panel
+- Click Agents
+- Navigate to "Add New" button
+- Create Jane User (Dept: SysAdmins)
+- Create John User (Dept: Support)
+
+  
+   <h2>Step 4. Configure Users (customers)</h2>
+
+
+  https://github.com/user-attachments/assets/69c7d4fa-bf98-41d3-996c-e56387aabad1
+
+
+- Watch the Instructional Video above
+- Go to Admins Panel
+- Click Users
+- Navigate to "Add New" button
+- Create Karen User 
 
 
 

@@ -105,6 +105,10 @@ https://github.com/user-attachments/assets/9632d521-19d4-4260-abb9-ebf886a7fc0f
 <h2>Step 6. Configure Help Topics (For when users create a ticket)</h2>
 
 
+
+https://github.com/user-attachments/assets/83cd4c49-e2c4-4493-81d1-fd12c2057a9e
+
+
 - Watch the Instructional Video above
 - Go to Admins Panel
 - Click Manage
